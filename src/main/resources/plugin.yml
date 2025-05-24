@@ -1,8 +1,7 @@
 name: XintuChat
 version: $version
 main: org.windy.xintuChat.XintuChat
-api-version: '1.18'
-authors: [ 1 ]
+authors: [ 风吟 ]
 depend:
   - XintuWhiteList
 commands:
