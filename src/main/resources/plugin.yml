@@ -1,0 +1,11 @@
+name: XintuChat
+version: $version
+main: org.windy.xintuChat.XintuChat
+api-version: '1.18'
+authors: [ 1 ]
+depend:
+  - XintuWhiteList
+commands:
+  reply:
+    description: 回复某位群成员
+    usage: /reply <formId> <内容> 哦
